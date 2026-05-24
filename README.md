@@ -6,7 +6,7 @@ This repository contains my projects, exercises, and practice programs completed
 
 The purpose of this repository is to track my daily progress, improve my Python programming skills, strengthen problem-solving abilities, and build consistency through regular coding practice.
 
-Progress: Completed 7/100 Days.
+Progress: Completed 14/100 Days.
 
 ## Completed Projects
 
@@ -20,12 +20,34 @@ Progress: Completed 7/100 Days.
 - Day 6 - Escape the Maze
 - Day 7 - Hangman
 
+### Week 2
+
+- Day 8 - Caesar Cipher
+- Day 9 - Secret Auction Program
+- Day 10 - Calculator
+- Day 11 - Blackjack Capstone Project
+- Day 12 - Number Guessing Game
+- Day 13 - Debugging Exercises
+- Day 14 - Higher Lower Game
+
 ## Technologies Used
 
 - Python 3
 - Git
 - GitHub
 - PyCharm
+
+## Skills Learned
+
+- Functions
+- Loops
+- Conditional Statements
+- Dictionaries
+- Lists
+- Debugging
+- Random Module
+- Game Development Basics
+- Problem Solving
 
 Future projects and advanced Python concepts will be added as I continue the challenge.
 
